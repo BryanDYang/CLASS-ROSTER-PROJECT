@@ -24,6 +24,7 @@
     <ProjectGuid>{f269b869-79a6-41cc-b58d-e5c7638c1519}</ProjectGuid>
     <RootNamespace>JYM1TASK1CLASSROSTER</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CLASS ROSTER</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
